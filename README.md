@@ -26,3 +26,7 @@ Enjoy!
 
 ps - I'm new to API and requests, so after finishing this code, working in a version of it, I noticed that you can
 select many options in the query, adding or removing params as you like, such as "id", "title" etc.
+
+ps2 - I've come to notice that is nice to limit the number os lines you will request in the query, or you'll maybe get
+an error message. Right after items, open parentesis and enter the limit as you wish, I think 500 is about the maximum
+that it can get without returning a "timeout" error. ex: [...] items(limit:400) [...]
