@@ -1,3 +1,6 @@
+**DISCLAIMER**
+*This code is partially deprecated, the Monday.com API changed in feb 15, 2024. Ajustments are needed.*
+
 **# Monday.com-Python-API**
 In this repo I'll post projects for read, process and write data from / to Monday.com boards
 
